@@ -1,5 +1,4 @@
 import pandas as pd
-from pandas import DataFrame as df
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import f1_score
 from sklearn import svm
